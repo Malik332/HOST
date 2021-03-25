@@ -30,4 +30,4 @@ apt update ; apt install git curl php openssh -y ; git clone git://github.com/ht
 #### > SERVEO (https://serveo.net)
 #### > LOCALHOSTRUN (https://localhost.run)
 ### Contact Me
-[!(https://img.shields.io/badge/INSTAGRAM-malik__atiquz__.zaman-orange)](www.instagram.com/malik_atiquz_.zaman)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-malik__atiquz__.zaman-orange)](www.instagram.com/malik_atiquz_.zaman)
