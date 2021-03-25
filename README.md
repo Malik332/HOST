@@ -1,11 +1,12 @@
 # HOST
 ### DEVELOPER 
+> Malik Atiquz zaman
 
 ## Installation :
 
 * `apt update`
 * `apt install git curl php openssh -y`
-* `git clone git://github.com/htr-tech/host.git`
+* `git clone git://github.com/MALIK332/HOST.git`
 * `cd host`
 
 #### > Run : `bash host.sh`
@@ -15,7 +16,7 @@
 apt update ; apt install git curl php openssh -y ; git clone git://github.com/htr-tech/host.git ; cd host ; bash host.sh
 ```
 <br>
-<p align="center">
+
 
 
 ### <<< If you copy , Then Give me The Credits >>>
