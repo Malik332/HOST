@@ -57,7 +57,7 @@ printf "\e[1;33m    |  __  |/ _ \/ __| __|\e[0m\n"
 printf "\e[1;33m    | |  | | (_) \__ \ |_ \e[0m\n"
 printf "\e[1;33m    |_|  |_|\___/|___/\__|\e[0m\n"
 printf "\n"
-printf "\e[1;31m [\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;32m Created By Malik332 \e[0m\e[1;31m(\e[0m\e[1;33mTahmid Rayat\e[0m\e[1;31m)\e[0m\n"
+printf "\e[1;31m [\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;32m Created By Malik332 \e[0m\e[1;31m(\e[0m\e[1;33mMALIK ATIQUZ ZAMAN\e[0m\e[1;31m)\e[0m\n"
 printf "\n"
 }
 menu(){
