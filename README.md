@@ -7,13 +7,13 @@
 * `apt update`
 * `apt install git curl php openssh -y`
 * `git clone git://github.com/MALIK332/HOST.git`
-* `cd host`
+* `cd HOST`
 
 #### > Run : `bash host.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh -y ; git clone git://github.com/htr-tech/host.git ; cd host ; bash host.sh
+apt update ; apt install git curl php openssh -y ; git clone git://github.com/htr-tech/host.git ; cd HOST ; bash host.sh
 ```
 <br>
 
